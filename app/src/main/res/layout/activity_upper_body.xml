@@ -1,0 +1,237 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp"
+    android:paddingBottom="8dp"
+    android:text="Ejercicios de Tren Superior"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+        android:textAlignment="center"
+       android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:layout_width="409dp"
+        android:layout_height="647dp"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ub1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="PECHO"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Press de Banca:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar la barra desde el pecho hasta la extensión total de los brazos, trabajando principalmente los músculos del pecho, hombros y tríceps.
+Para realizar el ejercicio, se debe acostar en el banco con los pies apoyados en el suelo y los glúteos y la espalda bien apoyados en el banco. Luego, se agarra la barra con las manos a una distancia un poco más ancha que los hombros y se baja lentamente hacia el pecho.
+A continuación, se empuja la barra hacia arriba hasta la extensión total de los brazos y se baja de nuevo controladamente hacia el pecho."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El press Inclinado con Mancuernas:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar las mancuernas desde el pecho hasta la extensión total de los brazos, trabajando principalmente los músculos del pecho y los hombros.
+Para realizar el ejercicio, se debe acostar en el banco inclinado con los pies apoyados en el suelo y los glúteos y la espalda bien apoyados en el banco. Luego, se sostienen las mancuernas a la altura del pecho y se empujan hacia arriba hasta la extensión total de los brazos y se bajan de nuevo controladamente hacia el pecho."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fondos en Paralelas:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar el peso del cuerpo desde una posición baja hasta la extensión total de los brazos, trabajando principalmente los músculos de los tríceps, hombros y pecho.
+Para realizar el ejercicio, se debe agarrar las barras con las manos y levantar el cuerpo desde una posición baja, mantener las piernas estiradas y los pies cruzados detrás del cuerpo. A continuación, se baja el cuerpo lentamente hacia abajo, doblando los codos hasta que los brazos forman un ángulo de 90 grados, y se empuja hacia arriba de nuevo hasta la extensión total de los brazos."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="ESPALDA"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remo con Barras:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar la barra desde una posición inclinada hasta el pecho, trabajando principalmente los músculos de la espalda, hombros y brazos.
+Para realizar el ejercicio, se debe pararse con los pies separados a la altura de los hombros y la barra frente al cuerpo. Luego, se inclina el torso hacia adelante manteniendo la espalda recta y se agarra la barra con las manos a una distancia un poco más ancha que los hombros. A continuación, se levanta la barra hacia el pecho manteniendo los codos pegados al cuerpo y se baja de nuevo controladamente hacia la posición inicial."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dominadas:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar el peso del cuerpo desde una posición baja hasta que la barbilla quede por encima de la barra, trabajando principalmente los músculos de la espalda, hombros y brazos.
+Para realizar el ejercicio, se debe agarrar la barra con las manos a una distancia un poco más ancha que los hombros, con las palmas mirando hacia adelante y los brazos completamente extendidos. Luego, se levanta el cuerpo hacia la barra flexionando los brazos y manteniendo la espalda recta, hasta que la barbilla quede por encima de la barra, y se baja de nuevo controladamente hasta la posición inicial."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Peso Muerto:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar la barra desde el suelo hasta la posición de pie, trabajando principalmente los músculos de la espalda, las piernas y los glúteos.
+Para realizar el ejercicio, se debe pararse frente a la barra con los pies separados a la altura de los hombros y la barra a la altura de las espinillas. Luego, se inclina el torso hacia adelante manteniendo la espalda recta y se agarra la barra con las manos a una distancia un poco más ancha que los hombros. A continuación, se levanta la barra hacia la posición de pie manteniendo la espalda recta y bajando de nuevo controladamente hacia el suelo.
+"
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+
+    <!-- Añade descripciones de los demás músculos y ejercicios de tren superior aquí -->
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="966dp"
+        android:layout_gravity=""
+        android:scaleType="centerCrop"
+        android:src="@drawable/ub2" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="HOMBROS"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Press Militar:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar el peso desde los hombros hasta la posición extendida sobre la cabeza, trabajando principalmente los músculos de los hombros y tríceps.
+Para realizar el ejercicio, se debe comenzar con los pies separados a la altura de los hombros y la barra o mancuernas en los hombros. Luego, se levanta el peso hacia la posición extendida sobre la cabeza manteniendo los codos hacia adelante y la espalda recta. A continuación, se baja controladamente el peso hasta la posición de los hombros y se repite el movimiento.
+"
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Press de Hombros con Mancuernas"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar las mancuernas desde los hombros hasta la posición extendida sobre la cabeza, trabajando principalmente los músculos de los hombros y tríceps.
+Para realizar el ejercicio, se debe comenzar con los pies separados a la altura de los hombros y las mancuernas en los hombros. Luego, se levantan las mancuernas hacia la posición extendida sobre la cabeza manteniendo los codos hacia adelante y la espalda recta. A continuación, se baja controladamente las mancuernas hasta la posición de los hombros y se repite el movimiento."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pres de Hombro Unilateral:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es levantar el peso desde el hombro hasta la posición extendida sobre la cabeza, trabajando principalmente los músculos de los hombros y tríceps, así como los músculos estabilizadores del tronco.
+Para realizar el ejercicio, se debe comenzar con los pies separados a la altura de los hombros y la mancuerna en un hombro. Luego, se levanta la mancuerna hacia la posición extendida sobre la cabeza manteniendo el codo hacia adelante y la espalda recta. A continuación, se baja controladamente la mancuerna hasta la posición del hombro y se repite el movimiento para el otro lado."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EJERCICIOS "
+        android:id="@+id/buttonBack"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+
+</LinearLayout>
+
+</ScrollView>

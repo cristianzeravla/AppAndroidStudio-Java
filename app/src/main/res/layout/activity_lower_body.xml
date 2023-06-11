@@ -1,0 +1,153 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="Ejercicios de Tren Inferior"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="620dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ub4" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:text="PIERNAS"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sentadillas con Barra:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es flexionar las rodillas y las caderas para bajar el cuerpo hacia abajo y luego extender las piernas para volver a la posición inicial, trabajando principalmente los músculos de las piernas y glúteos.
+Para realizar el ejercicio, se debe comenzar colocando la barra en la parte superior de la espalda, sosteniéndola con las manos y los dedos apuntando hacia adelante. Luego, se separan los pies a la anchura de los hombros y se flexionan las rodillas y las caderas para bajar el cuerpo hacia abajo, manteniendo la espalda recta y la cabeza hacia adelante. A continuación, se extienden las piernas para volver a la posición inicial y se repite el movimiento."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Desplantes  con Mancuernas:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El objetivo del ejercicio es trabajar los músculos de las piernas, glúteos y la parte inferior de la espalda.
+Para realizar el ejercicio, se debe comenzar con los pies separados a la altura de los hombros y las mancuernas en las manos a los lados del cuerpo. Luego, se da un gran paso hacia adelante con una pierna, flexionando la rodilla de la pierna de atrás el suelo hasta que la rodilla de la pierna delantera forme un ángulo de 90 grados. A continuación, se vuelve a la posición inicial y se repite el movimiento con la otra pierna."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hip Thrust:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El hip thrust es un ejercicio de entrenamiento de fuerza que se realiza en una posición sentada o recostada, con el objetivo de trabajar los músculos de los glúteos y la parte posterior de las piernas.
+Para realizar el ejercicio, se debe comenzar sentado en el suelo con una barra cargada de peso en la parte superior de las caderas. Luego, se apoyan los omóplatos en un banco o superficie elevada y se coloca la parte inferior de la espalda en posición neutra. A continuación, se flexionan las rodillas y se extienden las caderas para elevar la barra hacia arriba, manteniendo la posición durante unos segundos antes de volver a la posición inicial."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Peso Muerto:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El peso muerto es un ejercicio de entrenamiento de fuerza que se realiza con una barra cargada de peso, con el objetivo de trabajar los músculos de la espalda, glúteos, piernas y abdominales.
+Para realizar el ejercicio, se debe comenzar con los pies separados a la altura de los hombros y la barra en el suelo frente a los pies. Luego, se flexionan las rodillas y se agarran las manos a cada lado de la barra, manteniendo la espalda recta. A continuación, se extienden las rodillas y las caderas para levantar la barra, mantener la espalda recta y los hombros hacia atrás. Se detiene cuando se está de pie con las piernas completamente extendidas y la barra a la altura de la cintura. Luego se baja la barra al suelo en la misma forma que se levantó"
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gemelos de Pie:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El ejercicio de gemelos de pie es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos de los gemelos en las piernas.
+Para realizar el ejercicio, se debe comenzar de pie con los pies separados al ancho de los hombros y los talones ligeramente moviéndose en una plataforma elevada. Luego, se levantan los talones lo más alto posible, mantienen los pies en línea recta, y luego se bajan los talones de vuelta a la posición inicial. Se puede agregar peso con mancuernas para aumentar la intensidad del ejercicio."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Curl Femoral:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El curl femoral es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos posteriores de los muslos (isquiotibiales).
+Para realizar el ejercicio, se debe costar boca abajo en una máquina de curl femoral, con las rodillas justo en el borde de la plataforma y las almohadillas de la máquina justo por encima del tobillo. Luego, se debe contraer los músculos de los isquiotibiales para levantar la almohadilla hacia los glúteos, mantener las piernas rectas, y luego se baja lentamente la almohadilla de vuelta a la posición inicial."
+        android:lineSpacingExtra="4dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EJERCICIOS "
+        android:id="@+id/buttonBack"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+
+</LinearLayout>
+</ScrollView>
